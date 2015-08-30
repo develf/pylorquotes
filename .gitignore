@@ -1,0 +1,6 @@
+*.pyc
+*~
+.idea
+.ropeproject
+.settings
+__pycache__
